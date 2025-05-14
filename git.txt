@@ -1,0 +1,16 @@
+'''
+GIT commands
+
+- touch 'newfile.txt' (to create new file)
+- open 'filenae.txt' (to open file)
+- git init (to initialize git)
+- git add 'filename' (add file to staging area)
+- git status (check status)
+- git commit -m "Message" (to commit fit with relevant message)
+- git log (check what was committed)
+
+If 'git log' gets stuck then use 'q' to get out
+Use 'git log -n 3' to limit the number of commits that can be seen
+
+
+'''
